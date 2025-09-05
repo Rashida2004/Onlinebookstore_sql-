@@ -6,13 +6,13 @@ Mini project: SQL database design for an online bookstore
 This project is a simple database design for an online bookstore.
 
 ## Features
-- Tables: Books, Authors, Customers, Orders
+- Tables: Books, Customers, Orders
 - SQL queries for:
   - Adding new books/customers/orders
   - Handling customer orders
 - Demonstrates use of:
   - SELECT, INSERT, UPDATE, DELETE, DISTINCT, GROUP BY, ORDER BY,LIMIT/TOP,WHERE, LIKE
-  - Joins (INNER, LEFT ) but LEFT mostly used
+  - Joins (INNER, LEFT ) but LEFT JOIN mostly used
     
 
 ## How to Use
